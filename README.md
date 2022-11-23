@@ -11,4 +11,11 @@ The model on huggingface: https://huggingface.co/bsenst/skin-cancer-HAM10k/setti
 
 The gradio app on huggingface spaces: https://huggingface.co/spaces/bsenst/keras-image-classifier
 
-The model classifies images using the following classes: Actinic keratoses and intraepithelial carcinoma / Bowen's disease (akiec), basal cell carcinoma (bcc), benign keratosis-like lesions (solar lentigines / seborrheic keratoses and lichen-planus like keratoses, bkl), dermatofibroma (df), melanoma (mel), melanocytic nevi (nv) and vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorrhage, vasc)
+The model classifies images using the following classes: 
+* Actinic keratoses and intraepithelial carcinoma / Bowen's disease (akiec), 
+* basal cell carcinoma (bcc), 
+* benign keratosis-like lesions (solar lentigines / seborrheic keratoses and lichen-planus like keratoses, bkl),
+* dermatofibroma (df), 
+* melanoma (mel), 
+* melanocytic nevi (nv) and 
+* vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorrhage, vasc)
