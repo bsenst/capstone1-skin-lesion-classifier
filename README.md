@@ -19,3 +19,10 @@ The model classifies images using the following classes:
 * melanoma (mel), 
 * melanocytic nevi (nv) and 
 * vascular lesions (angiomas, angiokeratomas, pyogenic granulomas and hemorrhage, vasc)
+
+### TODO
+
+* check train and predict scripts (run on saturncloud?)
+* Dockerfile and Dockerimage
+* requirements.txt and Pipenv
+* flask app / BentoML?
