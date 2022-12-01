@@ -24,7 +24,7 @@ The model classifies images using the following classes:
 
 ### TODO
 
-* check train and predict scripts (run on saturncloud?)
-* Dockerfile and Dockerimage
-* requirements.txt and Pipenv
-* flask app / BentoML?
+- [ ] train script, requirements.txt and Pipenv
+- [ ] Dockerfile and Dockerimage
+- [x] predict script, requirements.txt and Pipenv
+- [ ] flask app / BentoML ?
