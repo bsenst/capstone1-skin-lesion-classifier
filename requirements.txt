@@ -1,5 +1,7 @@
-# TODO
-
 tensorflow
+gradio
 numpy
 pandas
+huggingface_hub
+transformers
+keras
